@@ -10,7 +10,8 @@
 | Nom | Prénom |
 |-----|--------|
 | Moumine | Wassim |
-
+| Arroud | Rayan |
+| Boubeker | Sami |
 ---
 
 ## 🎯 Description du projet
